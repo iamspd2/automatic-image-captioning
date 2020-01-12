@@ -1,2 +1,2 @@
 # automatic-image-captioning
-This project creates a model that automatically gives captions to images
+This is the second project of my Computer Vision Nanodegree course
